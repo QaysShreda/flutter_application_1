@@ -17,8 +17,8 @@ class HomePage extends StatelessWidget {
         
         ),
          body: SizedBox(
-          
-          height: 400,
+
+          height: 600,
            child: Row(
         
             mainAxisAlignment: MainAxisAlignment.center,
